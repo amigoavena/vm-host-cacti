@@ -1,4 +1,6 @@
 vm-host-cacti
 =============
 
-VM Host Monitoring Cacti Template
+VMWare Host Monitoring Cacti Template
+
+
